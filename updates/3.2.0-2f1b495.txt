@@ -1,0 +1,14 @@
+UN1CA 3.2.0 for Galaxy M51
+
+What's new
+- Added built-in OTA update support for the Galaxy M51.
+- Future ROM updates can now be checked through UN1CA Updates.
+- Added M51 compatibility adjustments for Google voice and Hotword components.
+- Updated SoundBooster and SoundAlive compatibility.
+- Added edge-lighting model compatibility.
+- Verified dirty-flash upgrade from UN1CA 3.1.0.
+- Improved overall M51 integration and stability.
+
+Credits
+- Mehedi H Joy for the original UN1CA work, guidance and support.
+- Thanks to the Galaxy M51 testers for testing and feedback.

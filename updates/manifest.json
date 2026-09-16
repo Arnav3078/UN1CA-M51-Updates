@@ -1,15 +1,28 @@
 {
-  "response": [
-    {
-      "datetime": 1789495219,
-      "device": "m51",
-      "filename": "UN1CA_3.2.0-OTA_m51-decrypted-sign.zip",
-      "id": "198fda8710854909fac51c08a48a439531bad8fb2250cd738ae28a5d7a592eb7",
-      "patch": "2026-08-05",
-      "size": 5432797977,
-      "urls": [],
-      "version": "3.2.0-2f1b495",
-      "incremental": 0
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1789546730,
+            "device": "m51",
+            "filename": "UN1CA_3.2.0-PrimeKernel-20260915-m51-OTA-signed.zip",
+            "id": "d88c86b93cc542bbfdbd05c8dcd0751620ab8c5c3eeacc70c693b830d01ec985",
+            "patch": "2026-08-05",
+            "size": 20848444,
+            "urls": [
+                "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/m51-kernel-test-1/UN1CA_3.2.0-PrimeKernel-20260915-m51-OTA-signed.zip"
+            ],
+            "version": "3.2.0-2f1b495-kernel-test1",
+            "incremental": 1789495219
+        },
+        {
+            "datetime": 1789495219,
+            "device": "m51",
+            "filename": "UN1CA_3.2.0-OTA_m51-decrypted-sign.zip",
+            "id": "198fda8710854909fac51c08a48a439531bad8fb2250cd738ae28a5d7a592eb7",
+            "patch": "2026-08-05",
+            "size": 5432797977,
+            "urls": [],
+            "version": "3.2.0-2f1b495",
+            "incremental": 0
+        }
+    ]
 }

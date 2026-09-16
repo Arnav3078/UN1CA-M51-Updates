@@ -1,0 +1,17 @@
+UN1CA 3.2.0 Prime Kernel OTA Test
+
+What's new
+- Updated to Prime Kernel 4.14.357-openela LostPrime.
+- Added the latest M51 kernel, DTB and DTBO payloads.
+- Includes kernel changes intended to improve touch response.
+- Tests incremental kernel delivery through UN1CA Updates.
+- System, vendor and user data are not replaced by this package.
+
+Important
+- This is a controlled OTA installation test for UN1CA 3.2.0.
+- The package updates the Boot and DTBO partitions.
+
+Credits
+- pascua28 for Prime Kernel.
+- Mehedi H Joy for UN1CA.
+- Arnav and the Galaxy M51 testers for OTA testing.

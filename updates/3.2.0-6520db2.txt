@@ -2,7 +2,7 @@ UN1CA 3.2.0 Maintenance Update for Galaxy M51
 
 What's new
 
-- Updated to Prime Kernel (15 September 2026)
+- Updated to LostPrime Kernel (15 September 2026)
 - Improved touch responsiveness and overall smoothness
 - Added the new Optional updates section
 - Improved OTA and dirty-flash compatibility

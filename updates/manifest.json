@@ -19,7 +19,10 @@
       "patch": "2026-08-05",
       "size": 5438854943,
       "urls": [
-        "https://excellmedia.dl.sourceforge.net/project/un1ca-m51/UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip"
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/3.2.0-m51/UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip.00",
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/3.2.0-m51/UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip.01",
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/3.2.0-m51/UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip.02",
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/3.2.0-m51/UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip.03"
       ],
       "version": "3.2.0-6520db2",
       "incremental": 0

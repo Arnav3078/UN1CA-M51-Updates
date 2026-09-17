@@ -1,0 +1,17 @@
+UN1CA 3.2.0 Maintenance Update for Galaxy M51
+
+What's new
+
+- Updated to Prime Kernel (2 September 2026)
+- Improved touch responsiveness and overall smoothness
+- Added the new Optional updates section
+- Improved OTA and dirty-flash compatibility
+- Added kernel-level power-efficiency improvements
+- Improved update reliability
+- General stability improvements
+
+Notes
+
+- This update can be dirty-flashed over the existing UN1CA 3.2.0 M51 build.
+- User data is preserved.
+- Battery behaviour should be evaluated after a few normal charge cycles.

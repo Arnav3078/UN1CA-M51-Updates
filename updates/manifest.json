@@ -10,6 +10,19 @@
       "urls": [],
       "version": "3.2.0-2f1b495",
       "incremental": 0
+    },
+    {
+      "datetime": 1789612698,
+      "device": "m51-test",
+      "filename": "UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip",
+      "id": "41fedd3080ad4f85d2c136ce4d01522361348189619e922e0703d9a9177cc809",
+      "patch": "2026-08-05",
+      "size": 5438854943,
+      "urls": [
+        "https://drive.usercontent.google.com/download?id=1zn_xD1rk_0ZG4Q_VcRhZ4po12655JRdE&export=download&confirm=t"
+      ],
+      "version": "3.2.0-6520db2",
+      "incremental": 0
     }
   ]
 }

@@ -28,6 +28,17 @@
       "incremental": 0
     },
     {
+      "datetime": 1789908007,
+      "device": "m51",
+      "filename": "UN1CA_4.0.0-74a0f2f6_20260920_m51_signed.zip",
+      "id": "05db88bf7a86afb52f1f0b083a66bd6dcd6fd425f569116d5096dc53bdbf3f12",
+      "patch": "2026-08-05",
+      "size": 5893347758,
+      "urls": [],
+      "version": "4.0.0-74a0f2f6",
+      "incremental": 0
+    },
+    {
       "datetime": 1789612698,
       "device": "m51-optional",
       "filename": "UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip",

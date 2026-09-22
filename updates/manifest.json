@@ -1,15 +1,31 @@
-[
-  {
-    "datetime": 1790002932,
-    "device": "m51",
-    "filename": "UN1CA_4.0.0_OneUI8.5_m51-signed.zip",
-    "id": "9c51b0e6c7e633b488c7296abc98a1831d0d0da72485ad2f17e1fe33ae840883",
-    "patch": "2026-08-05",
-    "size": 5624520242,
-    "urls": [
-      "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/v4.0.0/UN1CA_4.0.0_OneUI8.5_m51-signed.zip"
-    ],
-    "version": "4.0.0-m51",
-    "incremental": 0
-  }
-]
+{
+  "response": [
+    {
+      "datetime": 1789612698,
+      "device": "m51",
+      "filename": "UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip",
+      "id": "41fedd3080ad4f85d2c136ce4d01522361348189619e922e0703d9a9177cc809",
+      "patch": "2026-08-05",
+      "size": 5438854943,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/3.2.0-m51/UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip.00",
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/3.2.0-m51/UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip.01",
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/3.2.0-m51/UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip.02",
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/3.2.0-m51/UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip.03"
+      ],
+      "version": "3.2.0-6520db2",
+      "incremental": 0
+    },
+    {
+      "datetime": 1789612698,
+      "device": "m51-optional",
+      "filename": "UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip",
+      "id": "41fedd3080ad4f85d2c136ce4d01522361348189619e922e0703d9a9177cc809",
+      "patch": "2026-08-05",
+      "size": 5438854943,
+      "urls": [],
+      "version": "3.2.0-6520db2",
+      "incremental": 0
+    }
+  ]
+}

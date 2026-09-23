@@ -40,7 +40,7 @@
     },
     {
       "datetime": 1790002932,
-      "device": "m51",
+      "device": "m51-optional",
       "filename": "UN1CA_4.0.0_OneUI8.5_m51-signed.zip",
       "id": "9c51b0e6c7e633b488c7296abc98a1831d0d0da72485ad2f17e1fe33ae840883",
       "patch": "2026-08-05",

@@ -1,0 +1,16 @@
+UN1CA 5.2.0 (One UI 9.0) Stable Release for Galaxy M51
+
+What's new
+
+- Restored verified working Samsung Camera (v17.0.00.43) from stable UN1CA 5.0.0
+- Full stock One UI 9.0 OTA Updater integrated (native SESL UI cards & changelog)
+- Eliminated signature reconciliation conflict on Android 17 (SDK 37)
+- Upgraded base to Galaxy S23 (SM-S911B) One UI 9.0
+- KnoxGuard 3010 lock permanently eliminated
+- Enhanced Snapdragon 730G hardware UI acceleration and Live Blur
+- Retained authentic Samsung platform keys across core system components
+
+Notes
+
+- Can be flashed directly via TWRP or OrangeFox recovery without wiping data.
+- System integrity verified.

@@ -1,0 +1,15 @@
+UN1CA 5.2.0 One UI 9.0 Update for Galaxy M51
+
+What's new
+
+- Upgraded base to One UI 9.0 (Android 17, SDK 37) from Galaxy S23 (SM-S911B)
+- KnoxGuard 3010 lock permanently eliminated
+- Enhanced native system blur and smooth animations
+- Full SM7150 hardware compatibility layer
+- Fixed signature reconciliation and system stability
+- Performance optimizations and battery endurance tweaks
+
+Notes
+
+- Dirty-flashing supported over previous UN1CA builds.
+- User data is preserved.

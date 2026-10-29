@@ -50,6 +50,19 @@
       ],
       "version": "4.0.0-m51",
       "incremental": 0
+    },
+    {
+      "datetime": 1793266241,
+      "device": "m51",
+      "filename": "UN1CA_5.2.0+-4cd95444_20261029_m51-sign.zip",
+      "id": "3dc7955296cfcca0f75502a936ff0acca0bb2d673525f9f8be7213d8106a99b7",
+      "patch": "2026-10-05",
+      "size": 5391167273,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/v5.2.0/UN1CA_5.2.0+-4cd95444_20261029_m51-sign.zip"
+      ],
+      "version": "5.2.0+-4cd95444",
+      "incremental": 0
     }
   ]
 }

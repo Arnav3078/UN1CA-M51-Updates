@@ -1,0 +1,17 @@
+UN1CA 5.2.0 (One UI 9.0) Release for Galaxy M51 (Mind Blowing)
+
+What's new
+
+- Fixed bootloop caused by system signature mismatch on shared UID 1000 packages (SecSettings)
+- Dual signature bypass implemented: framework.jar areExactArraysMatch + binary DEX patch in services.jar
+- Full UN1CA Settings suite enabled (UI Settings, Spoof Settings, Extra Settings, Hide Dev Status)
+- Play Integrity Fix (PIF Canary) integrated to ensure banking apps and device integrity pass
+- Restored working Samsung Camera (v17.0.00.43) with One UI 9.0 enum compatibility and permissions
+- Fixed SSRM policy warning ('Fails to parse DEFAULT policy XML')
+- Native One UI ChoiDujour OTA update support connected directly to GitHub releases
+- Preserved official Samsung release signatures on KnoxGuard to prevent 3010 lockout
+- Codename preserved as 'Mind Blowing'
+
+Notes
+
+- Can be dirty-flashed over any UN1CA 5.x build in TWRP without wiping user data.

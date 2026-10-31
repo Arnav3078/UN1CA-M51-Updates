@@ -1,0 +1,18 @@
+UN1CA 5.2.0 (One UI 9.0) Hotfix for Galaxy M51 (Mind Blowing)
+
+What's new
+
+- Restored clean, verified LockSettingsService bytecode to resolve VerifyError bootloop after "Powered by Android"
+- Maintained permanent neutralization of all KnoxGuard / RemoteLock triggers (3010, 8135, and 4099) via Utils and KnoxGuardSeService hooks
+- Integrated Mehedi H Joy's Audio Spatializer HAL (audio_effects_spatializer.xml, libspatializerparamstorage.so, libeffects.so, libswspatializer.so, libcodec2_soft_eac3dec.so)
+- Added ro.audio.spatializer_enabled=true property in system and vendor
+- Applied Mehedi H Joy's Codec2 mremap seccomp policy patch (allowing MREMAP_MAYMOVE for media buffer allocations, resolving 0B Internal Storage and SD Card detection issues)
+- Fixed kernel FUSE crash by disabling incompatible FUSE passthrough (not supported on Linux 4.14 kernel)
+- Fully enabled Software Updates (ChoiDujour) tile in One UI Settings and UN1CA Settings
+- Verified working Samsung Camera with stable photo/video capture
+- Preserved Shipping API Level 29 and Board API Level 30
+- Codename preserved as 'Mind Blowing'
+
+Notes
+
+- Sideload via TWRP (Advanced > ADB Sideload) or flash directly in recovery.

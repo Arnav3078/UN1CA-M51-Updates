@@ -1,0 +1,16 @@
+UN1CA 5.2.0 (One UI 9.0) Stable Update for Galaxy M51
+
+What's new
+
+- Restored and patched fully working Samsung Camera (v17.0.00.43) from stable UN1CA 5.0.0
+- Enabled built-in UN1CA Settings with UI tweaks, Extra settings, and Hide Developer Status
+- Fully integrated Play Integrity Fix (PIF Canary 2026-10-05) for banking apps
+- Fixed SSRM Warning ('Fails to parse DEFAULT policy XML') on boot
+- Stock One UI 9.0 OTA Updater integrated (direct GitHub manifest integration)
+- Codename preserved as 'Mind Blowing'
+- KnoxGuard 3010 lockout protection maintained with authentic prebuilt framework components
+
+Notes
+
+- Can be flashed directly via TWRP or OrangeFox recovery without wiping data.
+- Play Integrity spoofing is configurable inside UN1CA Settings -> Spoof settings.

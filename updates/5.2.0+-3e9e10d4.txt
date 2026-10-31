@@ -1,0 +1,18 @@
+UN1CA 5.2.0 (One UI 9.0) Hotfix for Galaxy M51 (Mind Blowing)
+
+What's new
+
+- Fixed minijail seccomp policy parsing failure on VNDK 30 by changing mremap seccomp rule to mremap: 1 (eliminating invalid constant 'MREMAP_MAYMOVE' abort)
+- Fully resolved media HAL crashes (samsung.software.media.c2 and vendor.media.omx), unblocking boot sequence and resolving 0B internal storage & SD card detection
+- Restored authentic S23 One UI 9.0 audioserver and libaudioflinger.so (eliminating audioserver exit status 1 crash loop)
+- Integrated Mehedi H Joy's Audio Spatializer HAL blobs from extra firmware (SM-G990B/EUX) with ro.audio.spatializer_enabled=true
+- Preserved clean LockSettingsService bytecode to completely avoid VerifyError bootloops
+- All KnoxGuard / RemoteLock triggers (3010, 8135, and 4099) neutralized
+- FUSE passthrough enabled and stock SD card mount point restored in fstab
+- Software Updates (ChoiDujour) tile operational in Settings
+- Shipping API Level 29 and Board API Level 30 strictly maintained
+- ROM Codename preserved as 'Mind Blowing'
+
+Notes
+
+- Sideload via TWRP (Advanced > ADB Sideload) or flash directly in recovery.

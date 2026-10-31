@@ -1,0 +1,15 @@
+UN1CA 5.2.0 (One UI 9.0) Hotfix for Galaxy M51 (Mind Blowing)
+
+What's new
+
+- Fixed 0B Internal Storage and SD Card detection issue by applying Mehedi H Joy's Codec2 mremap seccomp patch (allowing MREMAP_MAYMOVE for media buffer allocations, preventing MediaProvider and FUSE ExternalStorageService crashes)
+- Fixed kernel FUSE crash by disabling incompatible FUSE passthrough (not supported on Linux 4.14 kernel)
+- Fixed fstab corrupted UFS paths: eliminated rogue A71 UFS sysfs mount attributes and aligned SD card auto-mount with One UI standard (sdcard1:auto)
+- Fully enabled Software Updates (ChoiDujour) tile in One UI Settings and UN1CA Settings
+- Verified working Samsung Camera with stable photo/video capture
+- Preserved Shipping API Level 29 and Board API Level 30 as specified
+- Codename preserved as 'Mind Blowing'
+
+Notes
+
+- Sideload via TWRP (Advanced > ADB Sideload) or install directly in TWRP recovery.

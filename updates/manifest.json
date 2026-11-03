@@ -206,6 +206,19 @@
       ],
       "version": "5.2.0+-3e9e10d4",
       "incremental": 0
+    },
+    {
+      "datetime": 1793545263,
+      "device": "m51",
+      "filename": "UN1CA_5.1.1_OneUI9.0_M51.zip",
+      "id": "e4b98687b37f4ffb4db704043b27b9921c5f3e970b86a3d6006f79024f0c9780",
+      "patch": "2026-10-05",
+      "size": 5418627791,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/v5.1.1/UN1CA_5.1.1_OneUI9.0_M51.zip"
+      ],
+      "version": "5.1.1",
+      "incremental": 0
     }
   ]
 }

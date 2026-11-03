@@ -1,0 +1,14 @@
+UN1CA 5.1.1 (One UI 9.0) for Galaxy M51 (Mind Blowing)
+
+What's new
+
+- Fully resolved internal storage and MicroSD card detection on Linux kernel 4.14
+- Re-enabled UN1CA Settings (Keybox spoofing, PIF spoofing, UI tweaks) in Settings app
+- Fixed Software Update (ChoiDujour) OTA integration
+- Neutralized all Knox Abnormal Detection triggers (KnoxGuard 3010 lock)
+- Audio Spatializer HAL blobs properly configured
+- ROM Codename: 'Mind Blowing'
+
+Notes
+
+- Flashable via TWRP recovery.

@@ -1,0 +1,16 @@
+UN1CA 5.1.1 Kernel Update for Galaxy M51 (Mind Blowing)
+
+What's new
+
+- Upstream LostPrime Linux Kernel (20261104-041625)
+  - Kernel version: 4.14.357-openela-LostPrime-g08a943a74939
+- Upstream NoMount updated to v2.2.0
+- KernelSU updated to v32707
+- DTB and DTBO synchronized with Samsung SM7150 kernel tree
+- Preserved all One UI 9.0 display, audio, camera, and storage patches
+
+Notes
+
+- Recommended KernelSU Manager: v32707 or newer.
+- Automatically installed via UN1CA Software Updates (ChoiDujour).
+- Flashable directly in recovery (TWRP / OrangeFox).

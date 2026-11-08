@@ -11,4 +11,5 @@ What's new
 
 Notes
 
-- Flashable via TWRP recovery.
+- Recommended KernelSU Manager: v32707 or newer.
+- Automatically installed via UN1CA Software Updates (ChoiDujour).

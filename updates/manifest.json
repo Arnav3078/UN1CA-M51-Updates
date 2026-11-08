@@ -208,29 +208,16 @@
       "incremental": 0
     },
     {
-      "datetime": 1793545263,
+      "datetime": 1794126000,
       "device": "m51",
       "filename": "UN1CA_5.1.1_OneUI9.0_M51.zip",
-      "id": "e4b98687b37f4ffb4db704043b27b9921c5f3e970b86a3d6006f79024f0c9780",
+      "id": "57ac5d9f7b01435ef4792c28626c762a01f81158777d77a39ef1fb6f6ffe8ae5",
       "patch": "2026-10-05",
-      "size": 5418627791,
+      "size": 5669073109,
       "urls": [
         "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/v5.1.1/UN1CA_5.1.1_OneUI9.0_M51.zip"
       ],
       "version": "5.1.1",
-      "incremental": 0
-    },
-    {
-      "datetime": 1793813000,
-      "device": "m51",
-      "filename": "UN1CA_5.1.1-LostPrime_20261104_m51-OTA-signed.zip",
-      "id": "a8ded2bf0a0cc930119af2364536ffb09bd3bcdf2373f6018dfd15fe55f8d392",
-      "patch": "2026-10-05",
-      "size": 19411246,
-      "urls": [
-        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/v5.1.1-lostprime-20261104/UN1CA_5.1.1-LostPrime_20261104_m51-OTA-signed.zip"
-      ],
-      "version": "5.1.1-LostPrime-20261104",
       "incremental": 0
     }
   ]

@@ -1,6 +1,15 @@
-UN1CA 5.2.0-d2352734 (One UI 9.0) for Galaxy M51 (SM-M515F)
-=============================================================
-- Restored prebuilt platform-signed ChoiDujour OTA application from 5.1.1
-- Integrated One UI 9 sysconfig allowed-system-preload and sharedUid allowlists
-- Fixed missing Software Update preference item in Samsung Settings
-- Kept all stability fixes, biometrics, settings, and reboot actions intact
+UN1CA 5.2.0 (One UI 9.0) for Galaxy M51
+
+What's new
+
+- Upgraded kernel to LostPrime Kernel 20261112 with BPF enabled (by kurtnettle)
+- Fixed UN1CA Settings reboot / recovery / fastboot / download menu crash
+- Restored missing Spoof settings (Keybox, PIF, HMA, Hide Developer Status)
+- Restored missing UI settings (Live Blur, Launcher Animation Type)
+- Integrated ChoiDujour Software Update directly into Settings homepage with OTA support
+- Fixed screen recording / screen capture detection smali patch
+- Decrypted build with AVB verification disabled
+
+Notes
+
+- Automatically installed via UN1CA Software Updates (ChoiDujour).

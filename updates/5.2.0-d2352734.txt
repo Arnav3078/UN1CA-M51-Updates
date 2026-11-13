@@ -1,0 +1,6 @@
+UN1CA 5.2.0-d2352734 (One UI 9.0) for Galaxy M51 (SM-M515F)
+=============================================================
+- Restored prebuilt platform-signed ChoiDujour OTA application from 5.1.1
+- Integrated One UI 9 sysconfig allowed-system-preload and sharedUid allowlists
+- Fixed missing Software Update preference item in Samsung Settings
+- Kept all stability fixes, biometrics, settings, and reboot actions intact

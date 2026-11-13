@@ -5,6 +5,7 @@ What's new
 - Upgraded kernel to LostPrime Kernel 20261112 with BPF enabled (by kurtnettle)
 - Fixed Face Unlock
 - Fixed Quick Share
+- Fixed OTA Bug
 - Fixed Navigation gestures
 - Fixed screen recording / screen capture detection smali patch
 - The Rom Feels Much More Stable And Smoother Thanks To - Mehedi H Joy, Pascua And Kurtnettle

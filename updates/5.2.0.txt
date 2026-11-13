@@ -2,13 +2,13 @@ UN1CA 5.2.0 (One UI 9.0) for Galaxy M51
 
 What's new
 
-- Rebased on Samuel Pascua's One UI 9.0 (seventeen) + selected SM7150 smali/OTA patches
-- Switched base firmware CSC to INS (SM-S911B)
-- Fixed Samsung Camera app crash on One UI 9.0
-- Added OTA Support (ChoiDujour) & UN1CA Settings
-- Updated side-mounted fingerprint, RIL, SetupWizard, Keybox, and SystemUI patches for One UI 9.0
-- Audio Spatializer HAL blobs properly configured
-- ROM Codename: 'Paradigm'
+- Upgraded kernel to LostPrime Kernel 20261112 with BPF enabled (by kurtnettle)
+- Fixed UN1CA Settings reboot / recovery / fastboot / download menu crash
+- Restored missing Spoof settings (Keybox, PIF, HMA, Hide Developer Status)
+- Restored missing UI settings (Live Blur, Launcher Animation Type)
+- Integrated ChoiDujour Software Update directly into Settings homepage with OTA support
+- Fixed screen recording / screen capture detection smali patch
+- Decrypted build with AVB verification disabled
 
 Notes
 

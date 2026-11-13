@@ -232,6 +232,19 @@
       ],
       "version": "5.2.0-bc3ea5d1",
       "incremental": 0
+    },
+    {
+      "datetime": 1794556564,
+      "device": "m51",
+      "filename": "UN1CA_5.2.0-b83ecebb_20261113_m51-decrypted-sign.zip",
+      "id": "8d1886066a9fe57bf44bd8cbbb0028cd7185b2f41eed7f821b9240e07fcf0364",
+      "patch": "2026-10-05",
+      "size": 5888281228,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/v5.2.0/UN1CA_5.2.0-b83ecebb_20261113_m51-decrypted-sign.zip"
+      ],
+      "version": "5.2.0-b83ecebb",
+      "incremental": 0
     }
   ]
 }

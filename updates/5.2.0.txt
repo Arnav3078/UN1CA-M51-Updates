@@ -3,12 +3,11 @@ UN1CA 5.2.0 (One UI 9.0) for Galaxy M51
 What's new
 
 - Upgraded kernel to LostPrime Kernel 20261112 with BPF enabled (by kurtnettle)
-- Fixed UN1CA Settings reboot / recovery / fastboot / download menu crash
-- Restored missing Spoof settings (Keybox, PIF, HMA, Hide Developer Status)
-- Restored missing UI settings (Live Blur, Launcher Animation Type)
-- Integrated ChoiDujour Software Update directly into Settings homepage with OTA support
+- Fixed Face Unlock
+- Fixed Quick Share
+- Fixed Navigation gestures
 - Fixed screen recording / screen capture detection smali patch
-- Decrypted build with AVB verification disabled
+- The Rom Feels Much More Stable And Smoother Thanks To - Mehedi H Joy, Pascua And Kurtnettle
 
 Notes
 

@@ -1,17 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1789495219,
-      "device": "m51",
-      "filename": "UN1CA_3.2.0-OTA_m51-decrypted-sign.zip",
-      "id": "198fda8710854909fac51c08a48a439531bad8fb2250cd738ae28a5d7a592eb7",
-      "patch": "2026-08-05",
-      "size": 5432797977,
-      "urls": [],
-      "version": "3.2.0-2f1b495",
-      "incremental": 0
-    },
-    {
       "datetime": 1789612698,
       "device": "m51",
       "filename": "UN1CA_3.2.0-6520db2_20260917_m51-decrypted-sign.zip",
@@ -65,16 +54,14 @@
       "incremental": 0
     },
     {
-      "datetime": 1794585315,
+      "datetime": 1794597872,
       "device": "m51",
-      "filename": "UN1CA_5.2.0-88df4585_20261113_m51-decrypted-sign.zip",
-      "id": "e87433818576fa0131e9847caddeadd3a9cdc7c60daf591728188daa2b3de771",
+      "filename": "UN1CA_5.2.0-a8acfea7_20261113_m51-decrypted-sign.zip",
+      "id": "a85f408d2480fcbbe73294841a8fa27977aeea5cc216f23494c6e46a01ccf918",
       "patch": "2026-10-05",
-      "size": 5887607584,
-      "urls": [
-        "https://drive.google.com/file/d/16f8un7MjHQDlEJjgM-ooEnAPBsye6GDJ/view?usp=sharing"
-      ],
-      "version": "5.2.0-88df4585",
+      "size": 5887303888,
+      "urls": [],
+      "version": "5.2.0-a8acfea7",
       "incremental": 0
     }
   ]

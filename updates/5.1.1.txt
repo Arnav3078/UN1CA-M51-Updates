@@ -1,15 +1,14 @@
-UN1CA 5.1.1 (One UI 9.0) for Galaxy M51 (Mind Blowing)
+UN1CA 5.2.0 (One UI 9.0) for Galaxy M51 (SM-M515F)
 
-What's new
+What's new:
+- Updated to latest One UI 9.0 base (SM-S911B)
+- Fixed Software Update / ChoiDujour in Samsung Settings
+- Fixed UN1CA Settings power menu & reboot popup crashes
+- Modernized biometrics & capacitive side-fingerprint integration
+- Added full support for S25/S26 Now Nudge, Now Brief & AOD features
+- Upgraded KernelSU with BPF-enabled LostPrime kernel
+- Preload and sharedUid allowlist registrations integrated permanently into ROM
 
-- Added OTA Support
-- Added UN1CA Settings
-- Fixed Auto Brightness Bug
-- Fixed Fingerprint(it now acts like a side fingerprint)
-- Audio Spatializer HAL blobs properly configured
-- ROM Codename: 'Mind Blowing'
-
-Notes
-
-- Recommended KernelSU Manager: v32707 or newer.
-- Automatically installed via UN1CA Software Updates (ChoiDujour).
+Notes:
+- Decrypted build (no FBE encryption required)
+- Dirty flashable over UN1CA 5.1.1 via TWRP or ChoiDujour OTA

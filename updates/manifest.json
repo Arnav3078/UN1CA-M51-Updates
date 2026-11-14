@@ -63,6 +63,28 @@
       "urls": [],
       "version": "5.2.0-a8acfea7",
       "incremental": 0
+    },
+    {
+      "datetime": 1794651333,
+      "device": "m51",
+      "filename": "UN1CA_5.2.1-4eed4836_20261114_m51-decrypted-sign.zip",
+      "id": "824e2812db70f8dcef0d6c489a1e3eacf0917f3e83e7c37f3784d4e0c1ad4d74",
+      "patch": "2026-10-05",
+      "size": 5886707958,
+      "urls": [],
+      "version": "5.2.1-4eed4836",
+      "incremental": 0
+    },
+    {
+      "datetime": 1794651333,
+      "device": "m51",
+      "filename": "UN1CA_5.2.1-4eed4836_20261114_m51-decrypted-INCREMENTAL_1794597872-sign.zip",
+      "id": "ee0d6158413eef28bd94cbe5cc010c68a3e9983b96819bca0f81707293226a19",
+      "patch": "2026-10-05",
+      "size": 155975434,
+      "urls": [],
+      "version": "5.2.1-4eed4836",
+      "incremental": 1794597872
     }
   ]
 }

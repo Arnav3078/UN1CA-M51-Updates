@@ -1,0 +1,15 @@
+UN1CA 5.2.1 (One UI 9.0) for Galaxy M51
+
+What's new
+
+- Fixed Secure Folder (So Banking Apps Could Be Used In Secure Folder)
+- Upgraded kernel to LostPrime Kernel 20261112 with BPF enabled (by kurtnettle)
+- Fixed Face Unlock
+- Fixed Quick Share
+- Fixed Navigation gestures
+- Fixed screen recording / screen capture detection smali patch
+- The Rom Feels Much More Stable And Smoother Thanks To - Mehedi H Joy, Pascua And Kurtnettle
+
+Notes
+
+- Automatically installed via UN1CA Software Updates (ChoiDujour).

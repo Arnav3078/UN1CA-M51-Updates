@@ -87,6 +87,45 @@
       ],
       "version": "5.2.1-4eed4836",
       "incremental": 1794597872
+    },
+    {
+      "datetime": 1794742958,
+      "device": "m51",
+      "filename": "UN1CA_5.2.2-b7dc51bd_20261115_m51-decrypted-sign.zip",
+      "id": "5efe42f28ce59c09fc45004bc282a8db661352488ea1538d0eded138555ede09",
+      "patch": "2026-10-05",
+      "size": 5887949065,
+      "urls": [],
+      "version": "5.2.2-b7dc51bd",
+      "incremental": 0
+    },
+    {
+      "datetime": 1794742958,
+      "device": "m51",
+      "filename": "UN1CA_5.2.2-b7dc51bd_20261115_m51-decrypted-INCREMENTAL_1794651333-sign.zip",
+      "id": "37831b475405536ac59c75a0a816700e5179fe9eba5171afd3424399ea24f4c0",
+      "patch": "2026-10-05",
+      "size": 154718889,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.2.2-m51/UN1CA_5.2.2-b7dc51bd_20261115_m51-decrypted-INCREMENTAL_1794651333-sign.zip"
+      ],
+      "version": "5.2.2-b7dc51bd",
+      "incremental": 1794651333,
+      "whats_new": "Fixed BT Audio Bug"
+    },
+    {
+      "datetime": 1794742958,
+      "device": "m51",
+      "filename": "UN1CA_5.2.2-b7dc51bd_20261115_m51-decrypted-INCREMENTAL_1794597872-sign.zip",
+      "id": "2e1ba785451e40f074038da645be9d2fdff1e2cdf948e3454ad7c12173b0fdc9",
+      "patch": "2026-10-05",
+      "size": 158071777,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.2.2-m51/UN1CA_5.2.2-b7dc51bd_20261115_m51-decrypted-INCREMENTAL_1794597872-sign.zip"
+      ],
+      "version": "5.2.2-b7dc51bd",
+      "incremental": 1794597872,
+      "whats_new": "Fixed BT Audio Bug"
     }
   ]
 }

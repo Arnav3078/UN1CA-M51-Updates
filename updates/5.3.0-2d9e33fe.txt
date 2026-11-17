@@ -1,0 +1,15 @@
+UN1CA 5.3.0 (One UI 9.0) for Galaxy M51
+
+What's new
+
+- Added Now Brief
+- Fixed Bixby Wakeup Crash(Improves Battery Life)
+- Added Performance Profiles:
+  • Light Mode Improves Battery Life By 20%(approx)
+  • Performance Mode Improves Speed and Frames Stability By 30%(approx)
+- Added Advanced GPU Tuning (Adreno 618) with full power level control
+- Built-in Offline Local AI (Qwen 2.5 0.5B Instruct)
+
+Notes
+
+- Automatically installed via UN1CA Software Updates (ChoiDujour).

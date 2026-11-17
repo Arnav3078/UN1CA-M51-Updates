@@ -157,6 +157,20 @@
       "version": "5.3.1-e66d476a",
       "incremental": 1794917036,
       "whats_new": "Fixed Advanced GPU Tuning & Finalized One UI 9 OTA"
+    },
+    {
+      "datetime": 1794934583,
+      "device": "m51",
+      "filename": "UN1CA_5.3.1-397b1dfd_20261117_m51-decrypted-INCREMENTAL_1794929822-sign.zip",
+      "id": "92e45f462946659ac75d61161214a7f3789b39e3e8a5c7eccc2e9e95f82dca3d",
+      "patch": "2026-10-05",
+      "size": 152616632,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-397b1dfd_20261117_m51-decrypted-INCREMENTAL_1794929822-sign.zip"
+      ],
+      "version": "5.3.1-397b1dfd",
+      "incremental": 1794929822,
+      "whats_new": "Fixed OTA Recovery Auto-Reboot & Advanced GPU Tuning"
     }
   ]
 }

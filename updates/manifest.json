@@ -143,6 +143,20 @@
       "version": "5.3.0-2d9e33fe",
       "incremental": 0,
       "whats_new": "Added Now Brief, Performance Profiles, Fixed Bixby Crash"
+    },
+    {
+      "datetime": 1794929822,
+      "device": "m51",
+      "filename": "UN1CA_5.3.1-e66d476a_20261117_m51-decrypted-INCREMENTAL_1794917036-sign.zip",
+      "id": "22a010c73096f5cdb173567b9208cecd745c2f35873cba2a847676bd707bcd1f",
+      "patch": "2026-10-05",
+      "size": 153676828,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-e66d476a_20261117_m51-decrypted-INCREMENTAL_1794917036-sign.zip"
+      ],
+      "version": "5.3.1-e66d476a",
+      "incremental": 1794917036,
+      "whats_new": "Fixed Advanced GPU Tuning & Finalized One UI 9 OTA"
     }
   ]
 }

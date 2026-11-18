@@ -171,6 +171,20 @@
       "version": "5.3.1-397b1dfd",
       "incremental": 1794929822,
       "whats_new": "Fixed OTA Recovery Auto-Reboot & Advanced GPU Tuning"
+    },
+    {
+      "datetime": 1794999372,
+      "device": "m51",
+      "filename": "UN1CA_5.3.1-382b74ea_20261118_m51-decrypted-INCREMENTAL_1794934583-sign.zip",
+      "id": "bf6277b9db79fc9dd65ab52e3106a80696883166f5c1855e4caef943a3a6a939",
+      "patch": "2026-10-05",
+      "size": 152641545,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-382b74ea_20261118_m51-decrypted-INCREMENTAL_1794934583-sign.zip"
+      ],
+      "version": "5.3.1-382b74ea",
+      "incremental": 1794934583,
+      "whats_new": "Fixed OTA Priv-App Signature & Auto-Reboot to Recovery"
     }
   ]
 }

@@ -185,6 +185,20 @@
       "version": "5.3.1-382b74ea",
       "incremental": 1794934583,
       "whats_new": "Fixed OTA Priv-App Signature & Auto-Reboot to Recovery"
+    },
+    {
+      "datetime": 1795003950,
+      "device": "m51",
+      "filename": "UN1CA_5.3.1-f7e5a180_20261118_m51-decrypted-INCREMENTAL_1794999372-sign.zip",
+      "id": "64c3debf04318ca870ef3e85235888c04e682630f540ff58961aa9b82f159b17",
+      "patch": "2026-10-05",
+      "size": 152615577,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-f7e5a180_20261118_m51-decrypted-INCREMENTAL_1794999372-sign.zip"
+      ],
+      "version": "5.3.1-f7e5a180",
+      "incremental": 1794999372,
+      "whats_new": "Fixed Recovery Path Translation (/sdcard) & Auto-Reboot"
     }
   ]
 }

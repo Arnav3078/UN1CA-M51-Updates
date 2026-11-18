@@ -147,18 +147,6 @@
     {
       "datetime": 1795012161,
       "device": "m51",
-      "filename": "UN1CA_5.3.1-11f92260_20261118_m51-decrypted-sign.zip",
-      "id": "653983aa19a008425264181ddcf566100e2b6e53b5881b6cf88fadd737350a4f",
-      "patch": "2026-10-05",
-      "size": 5853565318,
-      "urls": [],
-      "version": "5.3.1-11f92260",
-      "incremental": 0,
-      "whats_new": "ChoiDujour Software Update UI Layout Fix, Automated Recovery OTA Flashing & LostPrime Kernel"
-    },
-    {
-      "datetime": 1795012161,
-      "device": "m51",
       "filename": "UN1CA_5.3.1-11f92260_20261118_m51-decrypted-INCREMENTAL_1794899502-sign.zip",
       "id": "0100ae90623ccb21a72711dda167ac8016a10519b1adaacfb990c4b92b793157",
       "patch": "2026-10-05",

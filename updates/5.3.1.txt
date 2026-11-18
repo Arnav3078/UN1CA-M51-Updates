@@ -7,7 +7,7 @@ What's new
 - Added Performance Profiles:
   • Light Mode Improves Battery Life By 20%(approx)
   • Performance Mode Improves Speed and Frames Stability By 30%(approx)
-- Fixed OTA Bug
+- Made New Software Update App And Fixed Openrecoveryscript Bug
 - Fixed HDR brightness turning yellow (updated HWUI graphics stack)
 - Built-in Offline Local AI (Qwen 2.5 0.5B Instruct)
 

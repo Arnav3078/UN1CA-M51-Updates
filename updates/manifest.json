@@ -199,6 +199,20 @@
       "version": "5.3.1-f7e5a180",
       "incremental": 1794999372,
       "whats_new": "Fixed Recovery Path Translation (/sdcard) & Auto-Reboot"
+    },
+    {
+      "datetime": 1795009999,
+      "device": "m51",
+      "filename": "LostPrime-m51-ksu_20261112-160426.zip",
+      "id": "ba985d0c78abd274ed41e13a63cc27da3c001c79c4a0769bd9ee1f2791cd8fa3",
+      "patch": "2026-10-05",
+      "size": 20064826,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/LostPrime-m51-ksu_20261112-160426.zip"
+      ],
+      "version": "5.3.1-kurt-kernel",
+      "incremental": 1795003950,
+      "whats_new": "Kurtnettle Latest LostPrime SM7150 Kernel Update (KSU)"
     }
   ]
 }

@@ -169,6 +169,20 @@
       "version": "5.3.1-11f92260",
       "incremental": 1794899502,
       "whats_new": "ChoiDujour Software Update UI Layout Fix, Automated Recovery OTA Flashing & LostPrime Kernel"
+    },
+    {
+      "datetime": 1795012161,
+      "device": "m51",
+      "filename": "UN1CA_5.3.1-11f92260_20261118_m51-decrypted-INCREMENTAL_1795003950-sign.zip",
+      "id": "336559d958044e1185ab4c00785a8cfe18a3379f51f026bcae87065a9e73624e",
+      "patch": "2026-10-05",
+      "size": 152604753,
+      "urls": [
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-11f92260_20261118_m51-decrypted-INCREMENTAL_1795003950-sign.zip"
+      ],
+      "version": "5.3.1-11f92260",
+      "incremental": 1795003950,
+      "whats_new": "ChoiDujour Software Update UI Layout Fix, Automated Recovery OTA Flashing & LostPrime Kernel"
     }
   ]
 }

@@ -145,60 +145,30 @@
       "whats_new": "Added Now Brief, Performance Profiles, Fixed Bixby Crash"
     },
     {
-      "datetime": 1794929822,
+      "datetime": 1795012161,
       "device": "m51",
-      "filename": "UN1CA_5.3.1-e66d476a_20261117_m51-decrypted-INCREMENTAL_1794917036-sign.zip",
-      "id": "22a010c73096f5cdb173567b9208cecd745c2f35873cba2a847676bd707bcd1f",
+      "filename": "UN1CA_5.3.1-11f92260_20261118_m51-decrypted-sign.zip",
+      "id": "653983aa19a008425264181ddcf566100e2b6e53b5881b6cf88fadd737350a4f",
       "patch": "2026-10-05",
-      "size": 153676828,
-      "urls": [
-        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-e66d476a_20261117_m51-decrypted-INCREMENTAL_1794917036-sign.zip"
-      ],
-      "version": "5.3.1-e66d476a",
-      "incremental": 1794917036,
-      "whats_new": "Fixed Advanced GPU Tuning & Finalized One UI 9 OTA"
+      "size": 5853565318,
+      "urls": [],
+      "version": "5.3.1-11f92260",
+      "incremental": 0,
+      "whats_new": "ChoiDujour Software Update UI Layout Fix, Automated Recovery OTA Flashing & LostPrime Kernel"
     },
     {
-      "datetime": 1794934583,
+      "datetime": 1795012161,
       "device": "m51",
-      "filename": "UN1CA_5.3.1-397b1dfd_20261117_m51-decrypted-INCREMENTAL_1794929822-sign.zip",
-      "id": "92e45f462946659ac75d61161214a7f3789b39e3e8a5c7eccc2e9e95f82dca3d",
+      "filename": "UN1CA_5.3.1-11f92260_20261118_m51-decrypted-INCREMENTAL_1794899502-sign.zip",
+      "id": "0100ae90623ccb21a72711dda167ac8016a10519b1adaacfb990c4b92b793157",
       "patch": "2026-10-05",
-      "size": 152616632,
+      "size": 155417163,
       "urls": [
-        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-397b1dfd_20261117_m51-decrypted-INCREMENTAL_1794929822-sign.zip"
+        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-11f92260_20261118_m51-decrypted-INCREMENTAL_1794899502-sign.zip"
       ],
-      "version": "5.3.1-397b1dfd",
-      "incremental": 1794929822,
-      "whats_new": "Fixed OTA Recovery Auto-Reboot & Advanced GPU Tuning"
-    },
-    {
-      "datetime": 1794999372,
-      "device": "m51",
-      "filename": "UN1CA_5.3.1-382b74ea_20261118_m51-decrypted-INCREMENTAL_1794934583-sign.zip",
-      "id": "bf6277b9db79fc9dd65ab52e3106a80696883166f5c1855e4caef943a3a6a939",
-      "patch": "2026-10-05",
-      "size": 152641545,
-      "urls": [
-        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-382b74ea_20261118_m51-decrypted-INCREMENTAL_1794934583-sign.zip"
-      ],
-      "version": "5.3.1-382b74ea",
-      "incremental": 1794934583,
-      "whats_new": "Fixed OTA Priv-App Signature & Auto-Reboot to Recovery"
-    },
-    {
-      "datetime": 1795003950,
-      "device": "m51",
-      "filename": "UN1CA_5.3.1-f7e5a180_20261118_m51-decrypted-INCREMENTAL_1794999372-sign.zip",
-      "id": "64c3debf04318ca870ef3e85235888c04e682630f540ff58961aa9b82f159b17",
-      "patch": "2026-10-05",
-      "size": 152615577,
-      "urls": [
-        "https://github.com/Arnav3078/UN1CA-M51-Updates/releases/download/5.3.1-m51/UN1CA_5.3.1-f7e5a180_20261118_m51-decrypted-INCREMENTAL_1794999372-sign.zip"
-      ],
-      "version": "5.3.1-f7e5a180",
-      "incremental": 1794999372,
-      "whats_new": "Fixed Recovery Path Translation (/sdcard) & Auto-Reboot"
+      "version": "5.3.1-11f92260",
+      "incremental": 1794899502,
+      "whats_new": "ChoiDujour Software Update UI Layout Fix, Automated Recovery OTA Flashing & LostPrime Kernel"
     }
   ]
 }
